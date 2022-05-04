@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Práctica final de Periodismo de Datos
 ## Estructura de datos: 
 En este repositorio tenemos los siguientes archivos e imágenes:
