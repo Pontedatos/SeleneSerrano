@@ -1,14 +1,17 @@
-# Pasos que he seguido para la práctica final
-Para conseguir subir todas las prácticas de la asignatura en una, primero he creado un perfil en la página de GitHub de PonteDatos. Además, he añadido mi nombre de usuario en esa web: “SeleneSerrano” por lo que la URL ha quedado así: https://pontedatos.github.io/SeleneSerrano/ [_Pulsar aquí para ver la práctica_](https://pontedatos.github.io/SeleneSerrano/). Una vez creado esto, he creado en mi ordenador a través del comando mkdir una carpeta con el mismo nombre que el de mi usuario. Ahí se encuentran todos los archivos que posteriormente he subido a GitHub desde la terminal de Cygwin. 
+# ¿Qué hemos aprendido a lo largo del curso?
 
-Para subirlo he usado los comandos de
-- _git status_. Te muestra el estado de tu GitHub y por tanto si existe una desincronización entre el local (el ordenador) y el repositorio de GitHub web. 
-- _git add ._. Añado a la rama _main_ todos los nuevos archivos que he añadido en local. 
-- _git commit -m 'y aquí he puesto las modificaciones que he ido realizando'_. Sirve para confirmar los cambios que hemos hecho con un mesnajse indicando cuáles son estos. 
-- _git push_. Finalmente, actualizamos los cambios que hemos hecho en local para que pasen al servidor de GitHub web.
+Primero utilizamos una terminal llamada GitBash pero después cambiamos a Cygwin para trabajar con más facilidad y con más comandos. Para descargarla fuimoa  ala web de cygwin y pulsamos en instalar. Ahí decidimos modificar algunas de las cosas que íbamos a instalar para que se añadiesen todas las herramientas que íbamos a usar (para ello cambiamos la opción de _view_ a _full_ para que nos saliesen todas las opciones) como por ejemplo CURL, WGET y otras. En ellas instalamos la última versión para poder usarlas. Así pudimos tener y trabajar con la emulación de la terminal en nuestro ordenador. 
 
-Una vez he hecho eso, el siguiente paso ha sido comprobar que todo estaba bien subido. He tenido que rehacer el proceso algunas veces debido a que he tenido que renombrar algunos archivos y añadir algunos según las necesidades (como por ejemplo el de _logo.PNG_, que lo he subido posteriormente al ver que en la web podía quedar bien). 
+Previamente, con el uso de GitBash habíamos instalado las opciones de .git para poder trabajar con ello. Además, trabajamos con nano para poder usar un editor de texto dentro de la terminal y lo configuramos y aprendimos a usarlo. Saber, por ejemplo, que este símbolo: ^ hace referencia al botón de control en nuestro ordenador.  
 
-Después ha sido el momento de crear la página web. Para ello, desde la configuración (o _settings_) de GitHub y de ahí a _Pages_. Ahí he modificado la rama (_branch_) de _none_ a _main_. Además he añadido un tema de los que vienen para seleccionar. He seleccionado el de _minimal_ porque creo que queda bien estéticamente con los contenidos de la asignatura. Una vez hecho eso, he modificado el README a través de nano en la terminal y he vuelto a subirlo con el proceso mencionado. Por otra parte, al crear la página web se ha añadido este archivo: _config.yml_. Dentro de él, lo he modificado añadiendo el logo (mi foto) para que aparezca en la web así como un título y una descripción. 
-
-Hecho eso, he creado los dos archivos .md necesarios para finalizar la práctica y los he subido a GitHub con los pasos ya mencionados. 
+Versión del lenguaje de SHELL utilizado.
+Valor de la variable de entorno PATH.
+### Comandos utilizados y ejemplos
+Los comandos que hemos usado son numerosos pero los que más hemos utilizado son:
+- ls: para ver los archivos que hay dentro de la carpeta en la que estamos. 
+- pwd: para ver dónde nos encontramos. 
+- cd: para cambiar de directorio. 
+- cp: para copiar datos. 
+- micasa: una vez establecido el alias para la ruta que más hemos usado.
+- mkdir: para la creación de nuevas carpetas. 
+Además de esos, hemos usado en repetidas ocasiones todas las que hacen referencia a git, explicadas en [este](https://github.com/Pontedatos/SeleneSerrano/blob/main/metodologia.md) archivo. 
