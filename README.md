@@ -2,9 +2,9 @@
 ## Estructura de datos: 
 En este repositorio tenemos los siguientes archivos e imágenes:
 ### Metodología
-En este archivo se detalla cómo se ha llevado a cabo la práctica 4, incluido este README. 
+En este archivo se detalla cómo se ha llevado a cabo la práctica 4, incluido este README. Se puede ver [aquí](https://github.com/Pontedatos/SeleneSerrano/blob/main/metodologia.md)
 ### Resumen
-En este archivo se incuye un resumen de todo lo que hemos aprendido a lo largo del curso impartido en 2022. 
+En este archivo se incuye un resumen de todo lo que hemos aprendido a lo largo del curso impartido en 2022. Se puede ver [aquí](https://github.com/Pontedatos/SeleneSerrano/blob/main/resumen.md)
 ### Práctica-1-tresca
 Esta práctica consta de un solo archivo que se puede encontrar [aquí](./practica-1-tresca.md). 
 ### Práctica-1-libre
