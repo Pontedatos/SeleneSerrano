@@ -16,4 +16,4 @@ Esta práctica se constituye de tres archivos uno en formato [_.html_](./practic
 ### Práctica-3-2
 En este caso los archivos de la práctica son dos. Uno en formato [_.html_](./practica-3-2.html), otro en [_.ipynb_](./practica-3-2.ipynb). 
 ### Práctica-4
-En este caso la práctica vuelve a constar de tres archivos. Uno en formato [_.html_](./practica-4.html), otro en [_.ipynb_](./practica-4.ipynb) y finalmente el [_.md_](./practica-4.md).
+En este caso la práctica vuelve a constar de tres archivos. Uno en formato [_.html_](./practica-4-html.html), otro en [_.ipynb_](./practica-4.ipynb) y finalmente el [_.md_](./practica-4.md).
