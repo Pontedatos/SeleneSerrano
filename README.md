@@ -1,1 +1,9 @@
-# Dentro del presente repositorio están la primera práctica libre (practica-1-libre), la práctica de Tresca (practica-1-tresca) y la práctica 2 (practica-2).
+# Práctica final de Periodismo de Datos
+## Estructura de datos: 
+En este repositorio tenemos los siguientes archivos e imágenes:
+- Práctica-1-tresca
+- Práctica-1-libre
+- Práctica-2
+- Práctica-3 (en los dos formatos demandados)
+- Práctica-4 (en los dos formatos demandaos)
+
