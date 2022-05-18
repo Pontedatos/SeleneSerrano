@@ -1,8 +1,8 @@
-#Examen final de Periodismo de Datos
-##Selene Serrano de Juan. 
-##Periodismo y Humanidades.  
+# Examen final de Periodismo de Datos
+## Selene Serrano de Juan. 
+## Periodismo y Humanidades.  
 
-###Me dispongo a realizar el examen que corresponde al **Bloque A** de las cuestiones. Además, se incluyen las dos obligatorias y la pregunta a desarrollar al final del documento. 
+### Me dispongo a realizar el examen que corresponde al **Bloque A** de las cuestiones. Además, se incluyen las dos obligatorias y la pregunta a desarrollar al final del documento. 
 
 1. ¿Qué medio inglés es fundamental en el periodismo y la visualización de datos?
 Hay un medio claramente clave dentro de la visualización de datos, The Guardian. De hecho, se trata de un medio pionero del periodismo de datos moderno *(que empieza a partir del 2006-2008)*. Este nuevo periodismo abarca factores como el despegue del software de código abierto, el HTML5 y el Open Data, tan importante hoy en el periodismo. 
@@ -39,19 +39,19 @@ De hecho, esto se puede relacionar con Git. Ya que, dentro de sus múltiples fun
 Para empezar, su objetivo es lo primero que tienen en común. Ambos tratan de facilitar el acceso(la visualización) a los datos y su tratamiento. Sin embargo, mientras Excel se consolida como aplicación para visualizar los datos tabulados, CSV lo hace separándolos por comas (de ahí su nombre *Comma Separated Values* o valores separados por comas). Este tipo de formato de datos es realmente usado y sencillo, hay muchas bases de datos (como las usadas en clase) que se adaptan a este formato. 
 
 
-##PREGUNTA 8
+## PREGUNTA 8
 ### ** ¿Quién es Philip Meyer? **
 
 Philip Meyer nació en los años 30 y, ya en los 60, dio nombre a lo que hoy conocemos como “Periodismo de datos”, y lo hizo como “periodismo de precisión”. Desde ese momento, los nombres han ido variando y lo siguen haciendo, como “Data Driven Journalism” o “Periodismo de base de datos”. Es precursor en usar (y dar voz) al periodismo que da uso a las nuevas tecnologías. 
 
-##PREGUNTA 9
+## PREGUNTA 9
 ### **  ¿Quién fue Florence Nightingale? **
 
 Ella se puede considerar una de los antecedentes del periodismo de datos. Florence Nightingale fue una conocida enfermera, escritora y estadística. Destaca por crear el primer “modelo conceptual de enfermería” y se la considera pionera de la enfermería moderna. Pero además destaca por su labor en la creación de datos en forma de diagrama. Una de sus grandes obras se conoce como Diagrama de Área Polar en la que explica, con datos y con su conocimiento como enfermera, las personas que se pueden salvar, las que están graves y las que van a fallecer. Tuvo tanto impactó que logró hacer ver al gobierno británico la necesidad de reformas sanitarias. 
 
 
-##PREGUNTA DE DESARROLLO
-### ¿Qué es el periodismo de datos? ¿Cómo se relaciona con la visualización de datos?
+## PREGUNTA DE DESARROLLO
+### **¿Qué es el periodismo de datos? ¿Cómo se relaciona con la visualización de datos?**
 
 La sociedad se ha ido transformando a lo largo de los años y algo realmente relevante es que nos hemos adentrado en una sociedad de la información desde, aproximadamente, los años 60. Se puede tener en cuenta también que, una década antes, se contaba ya con el conocido como el *Computer Assisted Reporting* o periodismo asistido por ordenadores, que estaba en funcionamiento ya en EE.UU. Con esto, la evolución del periodismo se puede enmarcar. De la prensa del boca a boca y local o la que tardaba semanas en llegar, se pasa a una prensa de la inmediatez desde los portátiles o incluso los móviles. Sin embargo, pese a estos antecedentes, nos podemos remontar a los años de 2006-2008 para entender el periodismo de datos como se conoce ahora. Como se comentado en una pregunta anterior, para el desarrollo de este periodismo se tuvo en cuenta tres factores: la abundancia de software de datos abiertos, el HTML5 y el Open Data. Para llevarlo a cabo, se necesita contar con tres factores más: 
 1. El periodismo
