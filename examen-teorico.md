@@ -45,7 +45,7 @@ Para empezar, su objetivo es lo primero que tienen en común. Ambos tratan de fa
 Philip Meyer nació en los años 30 y, ya en los 60, dio nombre a lo que hoy conocemos como “Periodismo de datos”, y lo hizo como “periodismo de precisión”. Desde ese momento, los nombres han ido variando y lo siguen haciendo, como “Data Driven Journalism” o “Periodismo de base de datos”. Es precursor en usar (y dar voz) al periodismo que da uso a las nuevas tecnologías. 
 
 ## PREGUNTA 9
-### **  ¿Quién fue Florence Nightingale? **
+### **¿Quién fue Florence Nightingale?**
 
 Ella se puede considerar una de los antecedentes del periodismo de datos. Florence Nightingale fue una conocida enfermera, escritora y estadística. Destaca por crear el primer “modelo conceptual de enfermería” y se la considera pionera de la enfermería moderna. Pero además destaca por su labor en la creación de datos en forma de diagrama. Una de sus grandes obras se conoce como Diagrama de Área Polar en la que explica, con datos y con su conocimiento como enfermera, las personas que se pueden salvar, las que están graves y las que van a fallecer. Tuvo tanto impactó que logró hacer ver al gobierno británico la necesidad de reformas sanitarias. 
 
