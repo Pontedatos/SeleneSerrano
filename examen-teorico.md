@@ -5,14 +5,17 @@
 ### Me dispongo a realizar el examen que corresponde al **Bloque A** de las cuestiones. Además, se incluyen las dos obligatorias y la pregunta a desarrollar al final del documento. 
 ### **Bloque A**
 1. **¿Qué medio inglés es fundamental en el periodismo y la visualización de datos?**
+
 Hay un medio claramente clave dentro de la visualización de datos, The Guardian. De hecho, se trata de un medio pionero del periodismo de datos moderno *(que empieza a partir del 2006-2008)*. Este nuevo periodismo abarca factores como el despegue del software de código abierto, el HTML5 y el Open Data, tan importante hoy en el periodismo. 
 
 
 2. **¿De dónde viene el nombre de Jupyter?**
+
 Jupyter es uno de los editores que permiten usar el lenguaje Markdown. Es un proyecto que sigue el paradigma de programación que se conoce como *"literate programming"* o programación literaria. Su nombre proviene de los tres lenguajes que se usan en el entorno: Julia, Python y R. De este modo, se une el inicio de todos ellos (Ju-Pyt-(e)R). 
 
 
 3. **¿Qué es Internet?**
+
 Internet es lo que se conoce como una red de redes. Se trata de una red de computadoras de todo el mundo conectadas entre sí. Dentro de ella, por ejemplo, se encuentra la web. Hay que tener en cuenta que su funcionamiento se da gracias a unos protocolos llamados TCP/IP (*Transmission Control Protocol* o protocolo de control de la transmisión y a *Internet Protocol*).  En una red regida por estos, se encuentran más de 65.000 puertos de escucha, es decir, maneras de comunicación. Pero además de la web hay más servicios como la mensajería instantánea. 
 
 De una manera muy simple, Internet es un sistema de computadoras que están conectadas a nivel mundial y permiten comunicar y llevar a cabo diversos servicios y tareas. 
@@ -30,6 +33,7 @@ El término URL hace referencia explícita a *Unified Resource Locator*. En espa
 Es decir, como se ha explicitado en la pregunta anterior, es lo que elude a los recursos que se encuentran en las webs. Se corresponde solo a una única dirección de la web. 
 
 6. **¿Dónde se produce el funcionamiento cliente-servidor?**
+
 La red cliente-servidor hace referencia a una red de comunicaciones directa entre, como menciona, el cliente (local, mi ordenador en mi caso) y el servidor (por ejemplo, GitHub). Lo que hace es centralizar los recursos y aplicaciones y ponerlos al servicio de los clientes (nosotros). Se conoce como *localhost* al dominio de ese recurso.
 
 De hecho, esto se puede relacionar con Git. Ya que, dentro de sus múltiples funciones, nos habituamos a un software cliente/servidor. De hecho, esto se ve claramente en los comandos ya que algunos afectan al servidor (git push y git pull, por ejemplo) y otros como git add o git commit son locales.  
